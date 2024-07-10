@@ -4,3 +4,4 @@ adxl_results/vibrations/*.tar.gz
 *printer-\d{8}_\d{6}.cfg*
 *octoeverywhere-system.cfg*
 *octoeverywhere.conf*
+printer-*
