@@ -5,3 +5,4 @@ adxl_results/vibrations/*.tar.gz
 *octoeverywhere-system.cfg*
 *octoeverywhere.conf*
 printer-*
+.DS_Store
