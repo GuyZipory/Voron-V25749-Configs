@@ -91,3 +91,7 @@ install_script = install.sh
 managed_services = 
 	octoeverywhere
 
+[spoolman]
+server = http://192.168.3.196:7912
+sync_rate = 5
+
